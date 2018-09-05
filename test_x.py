@@ -10,10 +10,10 @@ def test_soma():
 from app import subtracao
 
 def test_subtracao():
-	assert subtracao(5,2) == 3
+	 assert subtracao(5,2) == 3
 
 
 from app import multiplicacao
 def test_multiplicacao():
-	assert multiplicacao(5,2) == 10
+	 assert multiplicacao(5,2) == 10
 
